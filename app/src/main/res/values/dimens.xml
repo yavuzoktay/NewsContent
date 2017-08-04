@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="post_item_offset">10dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_post_radius">0dp</dimen>
+    <dimen name="post_thumbnail_height">160dp</dimen>
+    <dimen name="post_title_padding">10dp</dimen>
+    <dimen name="post_title">15dp</dimen>
+    <dimen name="category_padding_bottom">5dp</dimen>
+    <dimen name="category_count">12dp</dimen>
+</resources>
